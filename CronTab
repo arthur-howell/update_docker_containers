@@ -1,0 +1,1 @@
+30 3 * * 0 /usr/local/bin/update-docker-containers.sh
